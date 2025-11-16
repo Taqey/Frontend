@@ -2,7 +2,7 @@
 
 class AuthService {
   constructor() {
-    this.baseUrl = 'https://todolist73.runasp.net/';
+    this.baseUrl = 'https://todolist73.runasp.net';
     this.tokenKey = 'jwt_token';
     this.tokenExpiryKey = 'jwt_token_expiry';
     this.storageTypeKey = 'token_storage_type'; // 'localStorage' or 'sessionStorage'
