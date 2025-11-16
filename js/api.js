@@ -2,7 +2,7 @@
 
 class ApiService {
   constructor() {
-    this.baseUrl = 'https://todolist73.runasp.net/api';
+    this.baseUrl = 'https://todolist73.runasp.net/';
   }
 
   // Make authenticated request with automatic token refresh
